@@ -1,0 +1,10 @@
+header {
+    border: 2px solid red;
+    height: 200px;
+    background-color: rgb(134, 195, 134);
+    background-image: url("https://recipesblob.oetker.es/assets/2e5c30edc9fe412089a92cb89772a28e/1272x764/tarta_red_velvetjpg.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+background-position: left;    background-position: top;
+    
+}

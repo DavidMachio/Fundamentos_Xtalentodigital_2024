@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input {
+    background-color: rgb(155, 231, 221);
+    border: 1px solid black;
+    border-radius: 5px;
+}
+#nombre {
+    background-color: blue;
+    color: red;
+}
+label {
+    color: blue;
+}
+#label-nombre {
+    font-size: 30px;
+}
